@@ -1,0 +1,35 @@
+congress,house,amend_num,member,party,state,district,amend_count
+113,H.R.,174,"Blumenauer, Earl ",D,OR,3,
+113, H.R.,142,"Blumenauer, Earl ",D,OR,3,2
+113, H.R.,163,"Coffman, Mike ",R,CO,6,
+113, H.R.,145,"Coffman, Mike ",R,CO,6,2
+113, H.R.,154,"Denham, Jeff ",R,CA,10,1
+113, H.R.,162,"Gibson, Christopher P. ",R,NY,19,1
+113, H.R.,150,"Goodlatte, Bob ",R,VA,6,1
+113, H.R.,157,"Holt, Rush ",D,NJ,12,1
+113, H.R.,161,"Larsen, Rick ",D,WA,2,1
+113, H.R.,143,"Lummis, Cynthia M. ",R,WY,At Large,1
+113, H.R.,158,"McCollum, Betty ",D,MN,4,1
+113, H.R.,149,"McGovern, James P. ",D,MA,2,1
+113,H.R.,173,"McKeon, Howard P. ""Buck"" ",R,CA,25,
+113, H.R.,166,"McKeon, Howard P. ""Buck"" ",R,CA,25,
+113, H.R.,165,"McKeon, Howard P. ""Buck"" ",R,CA,25,
+113, H.R.,164,"McKeon, Howard P. ""Buck"" ",R,CA,25,
+113, H.R.,156,"McKeon, Howard P. ""Buck"" ",R,CA,25,
+113, H.R.,153,"McKeon, Howard P. ""Buck"" ",R,CA,25,
+113, H.R.,146,"McKeon, Howard P. ""Buck"" ",R,CA,25,
+113, H.R.,141,"McKeon, Howard P. ""Buck"" ",R,CA,25,8
+113, H.R.,159,"Nolan, Richard M. ",D,MN,8,1
+113, H.R.,144,"Pearce, Stevan ",R,NM,2,1
+113,H.R.,170,"Polis, Jared ",D,CO,2,
+113,H.R.,169,"Polis, Jared ",D,CO,2,2
+113, H.R.,151,"Radel, Trey ",R,FL,19,1
+113, H.R.,148,"Rigell, E. Scott ",R,VA,2,1
+113,H.R.,168,"Smith, Adam ",D,WA,9,
+113, H.R.,152,"Smith, Adam ",D,WA,9,2
+113, H.R.,160,"Thornberry, Mac ",R,TX,13,1
+113, H.R.,155,"Turner, Michael R. ",R,OH,10,
+113, H.R.,147,"Turner, Michael R. ",R,OH,10,2
+113,H.R.,171,"Van Hollen, Chris ",D,MD,8,1
+113,H.R.,167,"Walorski, Jackie ",R,IN,2,1
+113,H.R.,172,"Walz, Timothy J. ",D,MN,1,1

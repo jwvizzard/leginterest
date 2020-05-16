@@ -1,0 +1,446 @@
+state,district,member,party,start,end
+Alabama,1,"Byrne, Bradley",R,01/03/19,01/03/21
+Alabama,2,"Roby, Martha",R,01/03/19,01/03/21
+Alabama,3,"Rogers , Mike",R,01/03/19,01/03/21
+Alabama,4,"Aderholt, Robert",R,01/03/19,01/03/21
+Alabama,5,"Brooks, Mo",R,01/03/19,01/03/21
+Alabama,6,"Palmer , Gary",R,01/03/19,01/03/21
+Alabama,7,"Sewell, Terri",D,01/03/19,01/03/21
+Alaska,0,"Young, Don",R,01/03/19,01/03/21
+Arizona,1,"O'Halleran, Tom",D,01/03/19,01/03/21
+Arizona,2,"Kirkpatrick, Ann",D,01/03/19,01/03/21
+Arizona,3,"Grijalva, Raúl",D,01/03/19,01/03/21
+Arizona,4,"Gosar, Paul",R,01/03/19,01/03/21
+Arizona,5,"Biggs, Andy",R,01/03/19,01/03/21
+Arizona,6,"Schweikert, David",R,01/03/19,01/03/21
+Arizona,7,"Gallego, Ruben",D,01/03/19,01/03/21
+Arizona,8,"Lesko, Debbie",R,01/03/19,01/03/21
+Arizona,9,"Stanton, Greg",D,01/03/19,01/03/21
+Arkansas,1,"Crawford , Rick",R,01/03/19,01/03/21
+Arkansas,2,"Hill , French",R,01/03/19,01/03/21
+Arkansas,3,"Womack, Steve",R,01/03/19,01/03/21
+Arkansas,4,"Westerman, Bruce",R,01/03/19,01/03/21
+California,1,"LaMalfa, Doug",R,01/03/19,01/03/21
+California,2,"Huffman, Jared",D,01/03/19,01/03/21
+California,3,"Garamendi, John",D,01/03/19,01/03/21
+California,4,"McClintock, Tom",R,01/03/19,01/03/21
+California,5,"Thompson , Mike",D,01/03/19,01/03/21
+California,6,"Matsui, Doris",D,01/03/19,01/03/21
+California,7,"Bera, Ami",D,01/03/19,01/03/21
+California,8,"Cook , Paul",R,01/03/19,01/03/21
+California,9,"McNerney, Jerry",D,01/03/19,01/03/21
+California,10,"Harder, Josh",D,01/03/19,01/03/21
+California,11,"DeSaulnier, Mark",D,01/03/19,01/03/21
+California,12,"Pelosi, Nancy",D,01/03/19,01/03/21
+California,13,"Lee, Barbara",D,01/03/19,01/03/21
+California,14,"Speier, Jackie",D,01/03/19,01/03/21
+California,15,"Swalwell, Eric",D,01/03/19,01/03/21
+California,16,"Costa, Jim",D,01/03/19,01/03/21
+California,17,"Khanna, Ro",D,01/03/19,01/03/21
+California,18,"Eshoo, Anna",D,01/03/19,01/03/21
+California,19,"Lofgren, Zoe",D,01/03/19,01/03/21
+California,20,"Panetta, Jimmy",D,01/03/19,01/03/21
+California,21,"Cox, TJ",D,01/03/19,01/03/21
+California,22,"Nunes, Devin",R,01/03/19,01/03/21
+California,23,"McCarthy , Kevin",R,01/03/19,01/03/21
+California,24,"Carbajal, Salud",D,01/03/19,01/03/21
+California,25,"Hill , Katie",D,01/03/19,01/03/21
+California,26,"Brownley, Julia",D,01/03/19,01/03/21
+California,27,"Chu, Judy",D,01/03/19,01/03/21
+California,28,"Schiff, Adam",D,01/03/19,01/03/21
+California,29,"Cárdenas, Tony",D,01/03/19,01/03/21
+California,30,"Sherman, Brad",D,01/03/19,01/03/21
+California,31,"Aguilar, Pete",D,01/03/19,01/03/21
+California,32,"Napolitano, Grace",D,01/03/19,01/03/21
+California,33,"Lieu, Ted",D,01/03/19,01/03/21
+California,34,"Gomez, Jimmy",D,01/03/19,01/03/21
+California,35,"Torres, Norma",D,01/03/19,01/03/21
+California,36,"Ruiz , Raul",D,01/03/19,01/03/21
+California,37,"Bass, Karen",D,01/03/19,01/03/21
+California,38,"Sánchez, Linda",D,01/03/19,01/03/21
+California,39,"Cisneros, Gil",D,01/03/19,01/03/21
+California,40,"Roybal-Allard, Lucille",D,01/03/19,01/03/21
+California,41,"Takano, Mark",D,01/03/19,01/03/21
+California,42,"Calvert, Ken",R,01/03/19,01/03/21
+California,43,"Waters, Maxine",D,01/03/19,01/03/21
+California,44,"Barragán, Nanette",D,01/03/19,01/03/21
+California,45,"Porter, Katie",D,01/03/19,01/03/21
+California,46,"Correa, Lou",D,01/03/19,01/03/21
+California,47,"Lowenthal, Alan",D,01/03/19,01/03/21
+California,48,"Rouda, Harley",D,01/03/19,01/03/21
+California,49,"Levin, Mike",D,01/03/19,01/03/21
+California,50,"Hunter, Duncan D.",R,01/03/19,1/13/2020
+California,51,"Vargas, Juan",D,01/03/19,01/03/21
+California,52,"Peters , Scott",D,01/03/19,01/03/21
+California,53,"Davis , Susan",D,01/03/19,01/03/21
+Colorado,1,"DeGette, Diana",D,01/03/19,01/03/21
+Colorado,2,"Neguse, Joe",D,01/03/19,01/03/21
+Colorado,3,"Tipton, Scott",R,01/03/19,01/03/21
+Colorado,4,"Buck, Ken",R,01/03/19,01/03/21
+Colorado,5,"Lamborn, Doug",R,01/03/19,01/03/21
+Colorado,6,"Crow, Jason",D,01/03/19,01/03/21
+Colorado,7,"Perlmutter, Ed",D,01/03/19,01/03/21
+Connecticut,1,"Larson, John B.",D,01/03/19,01/03/21
+Connecticut,2,"Courtney , Joe",D,01/03/19,01/03/21
+Connecticut,3,"DeLauro, Rosa",D,01/03/19,01/03/21
+Connecticut,4,"Himes, Jim",D,01/03/19,01/03/21
+Connecticut,5,"Hayes, Jahana",D,01/03/19,01/03/21
+Delaware,0,"Blunt Rochester, Lisa",D,01/03/19,01/03/21
+Florida,1,"Gaetz, Matt",R,01/03/19,01/03/21
+Florida,2,"Dunn, Neal",R,01/03/19,01/03/21
+Florida,3,"Yoho, Ted",R,01/03/19,01/03/21
+Florida,4,"Rutherford , John",R,01/03/19,01/03/21
+Florida,5,"Lawson, Al",D,01/03/19,01/03/21
+Florida,6,"Waltz, Michael",R,01/03/19,01/03/21
+Florida,7,"Murphy, Stephanie",D,01/03/19,01/03/21
+Florida,8,"Posey, Bill",R,01/03/19,01/03/21
+Florida,9,"Soto, Darren",D,01/03/19,01/03/21
+Florida,10,"Demings, Val",D,01/03/19,01/03/21
+Florida,11,"Webster , Daniel",R,01/03/19,01/03/21
+Florida,12,"Bilirakis, Gus",R,01/03/19,01/03/21
+Florida,13,"Crist, Charlie",D,01/03/19,01/03/21
+Florida,14,"Castor, Kathy",D,01/03/19,01/03/21
+Florida,15,"Spano, Ross",R,01/03/19,01/03/21
+Florida,16,"Buchanan, Vern",R,01/03/19,01/03/21
+Florida,17,"Steube, Greg",R,01/03/19,01/03/21
+Florida,18,"Mast, Brian",R,01/03/19,01/03/21
+Florida,19,"Rooney, Francis",R,01/03/19,01/03/21
+Florida,20,"Hastings, Alcee",D,01/03/19,01/03/21
+Florida,21,"Frankel, Lois",D,01/03/19,01/03/21
+Florida,22,"Deutch, Ted",D,01/03/19,01/03/21
+Florida,23,"Wasserman Schultz, Debbie",D,01/03/19,01/03/21
+Florida,24,"Wilson, Frederica",D,01/03/19,01/03/21
+Florida,25,"Díaz-Balart, Mario",R,01/03/19,01/03/21
+Florida,26,"Mucarsel-Powell, Debbie",D,01/03/19,01/03/21
+Florida,27,"Shalala, Donna",D,01/03/19,01/03/21
+Georgia,1,"Carter, Buddy",R,01/03/19,01/03/21
+Georgia,2,"Bishop, Sanford",D,01/03/19,01/03/21
+Georgia,3,"Ferguson , Drew",R,01/03/19,01/03/21
+Georgia,4,"Johnson, Hank",D,01/03/19,01/03/21
+Georgia,5,"Lewis , John",D,01/03/19,01/03/21
+Georgia,6,"McBath, Lucy",D,01/03/19,01/03/21
+Georgia,7,"Woodall, Rob",R,01/03/19,01/03/21
+Georgia,8,"Scott , Austin",R,01/03/19,01/03/21
+Georgia,9,"Collins , Doug",R,01/03/19,01/03/21
+Georgia,10,"Hice, Jody",R,01/03/19,01/03/21
+Georgia,11,"Loudermilk, Barry",R,01/03/19,01/03/21
+Georgia,12,"Allen, Rick",R,01/03/19,01/03/21
+Georgia,13,"Scott , David",D,01/03/19,01/03/21
+Georgia,14,"Graves, Tom",R,01/03/19,01/03/21
+Hawaii,1,"Case, Ed",D,01/03/19,01/03/21
+Hawaii,2,"Gabbard, Tulsi",D,01/03/19,01/03/21
+Idaho,1,"Fulcher, Russ",R,01/03/19,01/03/21
+Idaho,2,"Simpson, Mike",R,01/03/19,01/03/21
+Illinois,1,"Rush, Bobby",D,01/03/19,01/03/21
+Illinois,2,"Kelly, Robin",D,01/03/19,01/03/21
+Illinois,3,"Lipinski, Dan",D,01/03/19,01/03/21
+Illinois,4,"García, Jesús ""Chuy"" ",D,01/03/19,01/03/21
+Illinois,5,"Quigley , Mike",D,01/03/19,01/03/21
+Illinois,6,"Casten, Sean",D,01/03/19,01/03/21
+Illinois,7,"Davis, Danny K.",D,01/03/19,01/03/21
+Illinois,8,"Krishnamoorthi, Raja",D,01/03/19,01/03/21
+Illinois,9,"Schakowsky, Jan",D,01/03/19,01/03/21
+Illinois,10,"Schneider, Brad",D,01/03/19,01/03/21
+Illinois,11,"Foster , Bill",D,01/03/19,01/03/21
+Illinois,12,"Bost, Mike",R,01/03/19,01/03/21
+Illinois,13,"Davis , Rodney",R,01/03/19,01/03/21
+Illinois,14,"Underwood, Lauren",D,01/03/19,01/03/21
+Illinois,15,"Shimkus, John",R,01/03/19,01/03/21
+Illinois,16,"Kinzinger, Adam",R,01/03/19,01/03/21
+Illinois,17,"Bustos, Cheri",D,01/03/19,01/03/21
+Illinois,18,"LaHood, Darin",R,01/03/19,01/03/21
+Indiana,1,"Visclosky, Pete",D,01/03/19,01/03/21
+Indiana,2,"Walorski, Jackie",R,01/03/19,01/03/21
+Indiana,3,"Banks, Jim",R,01/03/19,01/03/21
+Indiana,4,"Baird , Jim",R,01/03/19,01/03/21
+Indiana,5,"Brooks, Susan",R,01/03/19,01/03/21
+Indiana,6,"Pence, Greg",R,01/03/19,01/03/21
+Indiana,7,"Carson, André",D,01/03/19,01/03/21
+Indiana,8,"Bucshon, Larry",R,01/03/19,01/03/21
+Indiana,9,"Hollingsworth, Trey",R,01/03/19,01/03/21
+Iowa,1,"Finkenauer, Abby",D,01/03/19,01/03/21
+Iowa,2,"Loebsack, Dave",D,01/03/19,01/03/21
+Iowa,3,"Axne, Cindy",D,01/03/19,01/03/21
+Iowa,4,"King, Steve",R,01/03/19,01/03/21
+Kansas,1,"Marshall , Roger",R,01/03/19,01/03/21
+Kansas,2,"Watkins, Steve",R,01/03/19,01/03/21
+Kansas,3,"Davids, Sharice",D,01/03/19,01/03/21
+Kansas,4,"Estes, Ron",R,01/03/19,01/03/21
+Kentucky,1,"Comer , James",R,01/03/19,01/03/21
+Kentucky,2,"Guthrie, Brett",R,01/03/19,01/03/21
+Kentucky,3,"Yarmuth, John",D,01/03/19,01/03/21
+Kentucky,4,"Massie, Thomas",R,01/03/19,01/03/21
+Kentucky,5,"Rogers, Hal",R,01/03/19,01/03/21
+Kentucky,6,"Barr , Andy",R,01/03/19,01/03/21
+Louisiana,1,"Scalise, Steve",R,01/03/19,01/03/21
+Louisiana,2,"Richmond, Cedric",D,01/03/19,01/03/21
+Louisiana,3,"Higgins, Clay",R,01/03/19,01/03/21
+Louisiana,4,"Johnson , Mike",R,01/03/19,01/03/21
+Louisiana,5,"Abraham , Ralph",R,01/03/19,01/03/21
+Louisiana,6,"Graves, Garret",R,01/03/19,01/03/21
+Maine,1,"Pingree, Chellie",D,01/03/19,01/03/21
+Maine,2,"Golden, Jared",D,01/03/19,01/03/21
+Maryland,1,"Harris , Andy",R,01/03/19,01/03/21
+Maryland,2,"Ruppersberger, Dutch",D,01/03/19,01/03/21
+Maryland,3,"Sarbanes, John",D,01/03/19,01/03/21
+Maryland,4,"Brown, Anthony G.",D,01/03/19,01/03/21
+Maryland,5,"Hoyer, Steny",D,01/03/19,01/03/21
+Maryland,6,"Trone, David",D,01/03/19,01/03/21
+Maryland,7,"Cummings, Elijah",D,01/03/19,10/17/2019
+Maryland,7,"Mfume, Kweisi",D,5/5/2020,01/03/21
+Maryland,8,"Raskin, Jamie",D,01/03/19,01/03/21
+Massachusetts,1,"Neal, Richard",D,01/03/19,01/03/21
+Massachusetts,2,"McGovern , Jim",D,01/03/19,01/03/21
+Massachusetts,3,"Trahan, Lori",D,01/03/19,01/03/21
+Massachusetts,4,"Kennedy III, Joe",D,01/03/19,01/03/21
+Massachusetts,5,"Clark, Katherine",D,01/03/19,01/03/21
+Massachusetts,6,"Moulton, Seth",D,01/03/19,01/03/21
+Massachusetts,7,"Pressley, Ayanna",D,01/03/19,01/03/21
+Massachusetts,8,"Lynch, Stephen F.",D,01/03/19,01/03/21
+Massachusetts,9,"Keating , Bill",D,01/03/19,01/03/21
+Michigan,1,"Bergman, Jack",R,01/03/19,01/03/21
+Michigan,2,"Huizenga, Bill",R,01/03/19,01/03/21
+Michigan,3,"Amash, Justin",I,01/03/19,01/03/21
+Michigan,4,"Moolenaar, John",R,01/03/19,01/03/21
+Michigan,5,"Kildee, Dan",D,01/03/19,01/03/21
+Michigan,6,"Upton, Fred",R,01/03/19,01/03/21
+Michigan,7,"Walberg, Tim",R,01/03/19,01/03/21
+Michigan,8,"Slotkin, Elissa",D,01/03/19,01/03/21
+Michigan,9,"Levin, Andy",D,01/03/19,01/03/21
+Michigan,10,"Mitchell , Paul",R,01/03/19,01/03/21
+Michigan,11,"Stevens, Haley",D,01/03/19,01/03/21
+Michigan,12,"Dingell, Debbie",D,01/03/19,01/03/21
+Michigan,13,"Tlaib, Rashida",D,01/03/19,01/03/21
+Michigan,14,"Lawrence, Brenda",D,01/03/19,01/03/21
+Minnesota,1,"Hagedorn, Jim",R,01/03/19,01/03/21
+Minnesota,2,"Craig, Angie",D,01/03/19,01/03/21
+Minnesota,3,"Phillips, Dean",D,01/03/19,01/03/21
+Minnesota,4,"McCollum, Betty",D,01/03/19,01/03/21
+Minnesota,5,"Omar, Ilhan",D,01/03/19,01/03/21
+Minnesota,6,"Emmer, Tom",R,01/03/19,01/03/21
+Minnesota,7,"Peterson, Collin",D,01/03/19,01/03/21
+Minnesota,8,"Stauber, Pete",R,01/03/19,01/03/21
+Mississippi,1,"Kelly, Trent",R,01/03/19,01/03/21
+Mississippi,2,"Thompson, Bennie",D,01/03/19,01/03/21
+Mississippi,3,"Guest , Michael",R,01/03/19,01/03/21
+Mississippi,4,"Palazzo, Steven",R,01/03/19,01/03/21
+Missouri,1,"Clay, Lacy",D,01/03/19,01/03/21
+Missouri,2,"Wagner, Ann",R,01/03/19,01/03/21
+Missouri,3,"Luetkemeyer, Blaine",R,01/03/19,01/03/21
+Missouri,4,"Hartzler, Vicky",R,01/03/19,01/03/21
+Missouri,5,"Cleaver, Emanuel",D,01/03/19,01/03/21
+Missouri,6,"Graves, Sam",R,01/03/19,01/03/21
+Missouri,7,"Long, Billy",R,01/03/19,01/03/21
+Missouri,8,"Smith , Jason",R,01/03/19,01/03/21
+Montana,0,"Gianforte, Greg",R,01/03/19,01/03/21
+Nebraska,1,"Fortenberry, Jeff",R,01/03/19,01/03/21
+Nebraska,2,"Bacon , Don",R,01/03/19,01/03/21
+Nebraska,3,"Smith , Adrian",R,01/03/19,01/03/21
+Nevada,1,"Titus, Dina",D,01/03/19,01/03/21
+Nevada,2,"Amodei, Mark",R,01/03/19,01/03/21
+Nevada,3,"Lee, Susie",D,01/03/19,01/03/21
+Nevada,4,"Horsford, Steven",D,01/03/19,01/03/21
+New Hampshire,1,"Pappas , Chris",D,01/03/19,01/03/21
+New Hampshire,2,"McLane Kuster, Ann",D,01/03/19,01/03/21
+New Jersey,1,"Norcross, Donald",D,01/03/19,01/03/21
+New Jersey,2,"Van Drew, Jeff",R,01/03/19,01/03/21
+New Jersey,3,"Kim , Andy",D,01/03/19,01/03/21
+New Jersey,4,"Smith , Chris",R,01/03/19,01/03/21
+New Jersey,5,"Gottheimer, Josh",D,01/03/19,01/03/21
+New Jersey,6,"Pallone, Frank",D,01/03/19,01/03/21
+New Jersey,7,"Malinowski, Tom",D,01/03/19,01/03/21
+New Jersey,8,"Sires, Albio",D,01/03/19,01/03/21
+New Jersey,9,"Pascrell, Bill",D,01/03/19,01/03/21
+New Jersey,10,"Payne Jr, Donald",D,01/03/19,01/03/21
+New Jersey,11,"Sherrill, Mikie",D,01/03/19,01/03/21
+New Jersey,12,"Watson Coleman, Bonnie",D,01/03/19,01/03/21
+New Mexico,1,"Haaland, Deb",D,01/03/19,01/03/21
+New Mexico,2,"Torres Small, Xochitl",D,01/03/19,01/03/21
+New Mexico,3,"Ray Luján, Ben",D,01/03/19,01/03/21
+New York,1,"Zeldin, Lee",R,01/03/19,01/03/21
+New York,2,"King, Peter T.",R,01/03/19,01/03/21
+New York,3,"Suozzi, Thomas",D,01/03/19,01/03/21
+New York,4,"Rice, Kathleen",D,01/03/19,01/03/21
+New York,5,"Meeks, Gregory",D,01/03/19,01/03/21
+New York,6,"Meng, Grace",D,01/03/19,01/03/21
+New York,7,"Velázquez, Nydia",D,01/03/19,01/03/21
+New York,8,"Jeffries, Hakeem",D,01/03/19,01/03/21
+New York,9,"Clarke, Yvette",D,01/03/19,01/03/21
+New York,10,"Nadler, Jerry",D,01/03/19,01/03/21
+New York,11,"Rose, Max",D,01/03/19,01/03/21
+New York,12,"Maloney, Carolyn",D,01/03/19,01/03/21
+New York,13,"Espaillat, Adriano",D,01/03/19,01/03/21
+New York,14,"Ocasio-Cortez, Alexandria",D,01/03/19,01/03/21
+New York,15,"Serrano, José E.",D,01/03/19,01/03/21
+New York,16,"Engel, Eliot",D,01/03/19,01/03/21
+New York,17,"Lowey, Nita",D,01/03/19,01/03/21
+New York,18,"Patrick Maloney, Sean",D,01/03/19,01/03/21
+New York,19,"Delgado , Antonio",D,01/03/19,01/03/21
+New York,20,"Tonko, Paul",D,01/03/19,01/03/21
+New York,21,"Stefanik, Elise",R,01/03/19,01/03/21
+New York,22,"Brindisi, Anthony",D,01/03/19,01/03/21
+New York,23,"Reed , Tom",R,01/03/19,01/03/21
+New York,24,"Katko, John",R,01/03/19,01/03/21
+New York,25,"Morelle, Joseph",D,01/03/19,01/03/21
+New York,26,"Higgins, Brian",D,01/03/19,01/03/21
+New York,27,"Collins , Chris",R,01/03/19,10/01/19
+North Carolina,1,"Butterfield, G.K.",D,01/03/19,01/03/21
+North Carolina,2,"Holding, George",R,01/03/19,01/03/21
+North Carolina,3,"Jones, Walter B., Jr.",R,01/03/19,02/10/19
+,,,,01/03/19,01/03/21
+North Carolina,4,"Price , David",D,01/03/19,01/03/21
+North Carolina,5,"Foxx, Virginia",R,01/03/19,01/03/21
+North Carolina,6,"Walker , Mark",R,01/03/19,01/03/21
+North Carolina,7,"Rouzer, David",R,01/03/19,01/03/21
+North Carolina,8,"Hudson , Richard",R,01/03/19,01/03/21
+North Carolina,9,"Bishop, Dan",R,03/10/19,01/03/21
+North Carolina,10,"McHenry, Patrick",R,01/03/19,01/03/21
+North Carolina,11,"Meadows , Mark",R,01/03/19,03/30/20
+North Carolina,12,"Adams, Alma",D,01/03/19,01/03/21
+North Carolina,13,"Budd, Ted",R,01/03/19,01/03/21
+North Dakota,0,"Armstrong, Kelly",R,01/03/19,01/03/21
+Ohio,1,"Chabot, Steve",R,01/03/19,01/03/21
+Ohio,2,"Wenstrup, Brad",R,01/03/19,01/03/21
+Ohio,3,"Beatty, Joyce",D,01/03/19,01/03/21
+Ohio,4,"Jordan , Jim",R,01/03/19,01/03/21
+Ohio,5,"Latta, Bob",R,01/03/19,01/03/21
+Ohio,6,"Johnson , Bill",R,01/03/19,01/03/21
+Ohio,7,"Gibbs, Bob",R,01/03/19,01/03/21
+Ohio,8,"Davidson, Warren",R,01/03/19,01/03/21
+Ohio,9,"Kaptur, Marcy",D,01/03/19,01/03/21
+Ohio,10,"Turner, Mike",R,01/03/19,01/03/21
+Ohio,11,"Fudge, Marcia",D,01/03/19,01/03/21
+Ohio,12,"Balderson, Troy",R,01/03/19,01/03/21
+Ohio,13,"Ryan , Tim",D,01/03/19,01/03/21
+Ohio,14,"Joyce , David",R,01/03/19,01/03/21
+Ohio,15,"Stivers, Steve",R,01/03/19,01/03/21
+Ohio,16,"Gonzalez, Anthony",R,01/03/19,01/03/21
+Oklahoma,1,"Hern, Kevin",R,01/03/19,01/03/21
+Oklahoma,2,"Mullin, Markwayne",R,01/03/19,01/03/21
+Oklahoma,3,"Lucas , Frank",R,01/03/19,01/03/21
+Oklahoma,4,"Cole, Tom",R,01/03/19,01/03/21
+Oklahoma,5,"Horn, Kendra",D,01/03/19,01/03/21
+Oregon,1,"Bonamici, Suzanne",D,01/03/19,01/03/21
+Oregon,2,"Walden, Greg",R,01/03/19,01/03/21
+Oregon,3,"Blumenauer, Earl",D,01/03/19,01/03/21
+Oregon,4,"DeFazio, Peter",D,01/03/19,01/03/21
+Oregon,5,"Schrader, Kurt",D,01/03/19,01/03/21
+Pennsylvania,1,"Fitzpatrick , Brian",R,01/03/19,01/03/21
+Pennsylvania,2,"Boyle, Brendan",D,01/03/19,01/03/21
+Pennsylvania,3,"Evans , Dwight",D,01/03/19,01/03/21
+Pennsylvania,4,"Dean, Madeleine",D,01/03/19,01/03/21
+Pennsylvania,5,"Gay Scanlon, Mary",D,01/03/19,01/03/21
+Pennsylvania,6,"Houlahan, Chrissy",D,01/03/19,01/03/21
+Pennsylvania,7,"Wild, Susan",D,01/03/19,01/03/21
+Pennsylvania,8,"Cartwright, Matt",D,01/03/19,01/03/21
+Pennsylvania,9,"Meuser, Dan",R,01/03/19,01/03/21
+Pennsylvania,10,"Perry , Scott",R,01/03/19,01/03/21
+Pennsylvania,11,"Smucker, Lloyd",R,01/03/19,01/03/21
+Pennsylvania,12,"Marino, Tom",R,01/03/19,1/23/2019
+Pennsylvania,12,"Keller, Fred",R,05/21/19,01/03/21
+Pennsylvania,13,"Joyce , John",R,01/03/19,01/03/21
+Pennsylvania,14,"Reschenthaler, Guy",R,01/03/19,01/03/21
+Pennsylvania,15,"Thompson , Glenn",R,01/03/19,01/03/21
+Pennsylvania,16,"Kelly , Mike",R,01/03/19,01/03/21
+Pennsylvania,17,"Lamb, Conor",D,01/03/19,01/03/21
+Pennsylvania,18,"Doyle , Mike",D,01/03/19,01/03/21
+Rhode Island,1,"Cicilline, David",D,01/03/19,01/03/21
+Rhode Island,2,"Langevin, James",D,01/03/19,01/03/21
+South Carolina,1,"Cunningham , Joe",D,01/03/19,01/03/21
+South Carolina,2,"Wilson , Joe",R,01/03/19,01/03/21
+South Carolina,3,"Duncan , Jeff",R,01/03/19,01/03/21
+South Carolina,4,"Timmons, William",R,01/03/19,01/03/21
+South Carolina,5,"Norman, Ralph",R,01/03/19,01/03/21
+South Carolina,6,"Clyburn, Jim",D,01/03/19,01/03/21
+South Carolina,7,"Rice, Tom",R,01/03/19,01/03/21
+South Dakota,0,"Johnson, Dusty",R,01/03/19,01/03/21
+Tennessee,1,"Roe , Phil",R,01/03/19,01/03/21
+Tennessee,2,"Burchett, Tim",R,01/03/19,01/03/21
+Tennessee,3,"Fleischmann, Chuck",R,01/03/19,01/03/21
+Tennessee,4,"DesJarlais, Scott",R,01/03/19,01/03/21
+Tennessee,5,"Cooper, Jim",D,01/03/19,01/03/21
+Tennessee,6,"Rose , John",R,01/03/19,01/03/21
+Tennessee,7,"Green, Mark E.",R,01/03/19,01/03/21
+Tennessee,8,"Kustoff, David",R,01/03/19,01/03/21
+Tennessee,9,"Cohen, Steve",D,01/03/19,01/03/21
+Texas,1,"Gohmert, Louie",R,01/03/19,01/03/21
+Texas,2,"Crenshaw, Dan",R,01/03/19,01/03/21
+Texas,3,"Taylor, Van",R,01/03/19,01/03/21
+Texas,4,"Ratcliffe , John",R,01/03/19,01/03/21
+Texas,5,"Gooden, Lance",R,01/03/19,01/03/21
+Texas,6,"Wright , Ron",R,01/03/19,01/03/21
+Texas,7,"Fletcher, Lizzie",D,01/03/19,01/03/21
+Texas,8,"Brady, Kevin",R,01/03/19,01/03/21
+Texas,9,"Green , Al",D,01/03/19,01/03/21
+Texas,10,"McCaul, Michael",R,01/03/19,01/03/21
+Texas,11,"Conaway, Mike",R,01/03/19,01/03/21
+Texas,12,"Granger, Kay",R,01/03/19,01/03/21
+Texas,13,"Thornberry, Mac",R,01/03/19,01/03/21
+Texas,14,"Weber, Randy",R,01/03/19,01/03/21
+Texas,15,"Gonzalez , Vicente",D,01/03/19,01/03/21
+Texas,16,"Escobar, Veronica",D,01/03/19,01/03/21
+Texas,17,"Flores, Bill",R,01/03/19,01/03/21
+Texas,18,"Jackson Lee, Sheila",D,01/03/19,01/03/21
+Texas,19,"Arrington, Jodey",R,01/03/19,01/03/21
+Texas,20,"Castro, Joaquin",D,01/03/19,01/03/21
+Texas,21,"Roy, Chip",R,01/03/19,01/03/21
+Texas,22,"Olson, Pete",R,01/03/19,01/03/21
+Texas,23,"Hurd, Will",R,01/03/19,01/03/21
+Texas,24,"Marchant, Kenny",R,01/03/19,01/03/21
+Texas,25,"Williams , Roger",R,01/03/19,01/03/21
+Texas,26,"Burgess, Michael C.",R,01/03/19,01/03/21
+Texas,27,"Cloud, Michael",R,01/03/19,01/03/21
+Texas,28,"Cuellar, Henry",D,01/03/19,01/03/21
+Texas,29,"Garcia, Sylvia",D,01/03/19,01/03/21
+Texas,30,"Bernice Johnson, Eddie",D,01/03/19,01/03/21
+Texas,31,"Carter , John",R,01/03/19,01/03/21
+Texas,32,"Allred, Colin",D,01/03/19,01/03/21
+Texas,33,"Veasey, Marc",D,01/03/19,01/03/21
+Texas,34,"Vela Jr, Filemon",D,01/03/19,01/03/21
+Texas,35,"Doggett, Lloyd",D,01/03/19,01/03/21
+Texas,36,"Babin, Brian",R,01/03/19,01/03/21
+Utah,1,"Bishop, Rob",R,01/03/19,01/03/21
+Utah,2,"Stewart , Chris",R,01/03/19,01/03/21
+Utah,3,"Curtis , John",R,01/03/19,01/03/21
+Utah,4,"McAdams, Ben",D,01/03/19,01/03/21
+Vermont,0,"Welch, Peter",D,01/03/19,01/03/21
+Virginia,1,"Wittman, Rob",R,01/03/19,01/03/21
+Virginia,2,"Luria, Elaine",D,01/03/19,01/03/21
+Virginia,3,"Scott , Bobby",D,01/03/19,01/03/21
+Virginia,4,"McEachin, Donald",D,01/03/19,01/03/21
+Virginia,5,"Riggleman, Denver",R,01/03/19,01/03/21
+Virginia,6,"Cline, Ben",R,01/03/19,01/03/21
+Virginia,7,"Spanberger, Abigail",D,01/03/19,01/03/21
+Virginia,8,"Beyer, Don",D,01/03/19,01/03/21
+Virginia,9,"Griffith, Morgan",R,01/03/19,01/03/21
+Virginia,10,"Wexton, Jennifer",D,01/03/19,01/03/21
+Virginia,11,"Connolly, Gerry",D,01/03/19,01/03/21
+Washington,1,"DelBene, Suzan",D,01/03/19,01/03/21
+Washington,2,"Larsen, Rick",D,01/03/19,01/03/21
+Washington,3,"Herrera Beutler, Jaime",R,01/03/19,01/03/21
+Washington,4,"Newhouse, Dan",R,01/03/19,01/03/21
+Washington,5,"McMorris Rodgers, Cathy",R,01/03/19,01/03/21
+Washington,6,"Kilmer, Derek",D,01/03/19,01/03/21
+Washington,7,"Jayapal, Pramila",D,01/03/19,01/03/21
+Washington,8,"Schrier, Kim",D,01/03/19,01/03/21
+Washington,9,"Smith , Adam",D,01/03/19,01/03/21
+Washington,10,"Heck, Denny",D,01/03/19,01/03/21
+West Virginia,1,"McKinley, David",R,01/03/19,01/03/21
+West Virginia,2,"Mooney, Alex",R,01/03/19,01/03/21
+West Virginia,3,"Miller , Carol",R,01/03/19,01/03/21
+Wisconsin,1,"Steil, Bryan",R,01/03/19,01/03/21
+Wisconsin,2,"Pocan, Mark",D,01/03/19,01/03/21
+Wisconsin,3,"Kind, Ron",D,01/03/19,01/03/21
+Wisconsin,4,"Moore, Gwen",D,01/03/19,01/03/21
+Wisconsin,5,"Sensenbrenner, Jim",R,01/03/19,01/03/21
+Wisconsin,6,"Grothman, Glenn",R,01/03/19,01/03/21
+Wisconsin,7,"Duffy, Sean",R,01/03/19,9/23/2019
+Wisconsin,8,"Gallagher , Mike",R,01/03/19,01/03/21
+Wyoming,0,"Cheney, Liz",R,01/03/19,01/03/21
+American Samoa,0,"Coleman Radewagen, Amata",R,01/03/19,01/03/21
+Cherokee Nation,0,"Teehee, Kimberly",D,01/03/19,01/03/21
+District of Columbia,0,"Holmes Norton, Eleanor",D,01/03/19,01/03/21
+Guam,0,"San Nicolas, Michael",D,01/03/19,01/03/21
+Northern Mariana Islands,0,"Sablan, Gregorio",I,01/03/19,01/03/21
+Puerto Rico,0,"González, Jenniffer",R,01/03/19,01/03/21
+U.S. Virgin Islands,0,"Plaskett, Stacey",D,01/03/19,01/03/21

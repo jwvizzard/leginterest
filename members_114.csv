@@ -1,0 +1,448 @@
+state,district,member,party,start,end
+Alabama,1,"Byrne, Bradley", R,01/03/15,01/03/17
+Alabama,2,"Roby, Martha", R,01/03/15,01/03/17
+Alabama,3,"Rogers, Mike", R,01/03/15,01/03/17
+Alabama,4,"Aderholt, Robert", R,01/03/15,01/03/17
+Alabama,5,"Brooks, Mo", R,01/03/15,01/03/17
+Alabama,6,"Palmer, Gary", R,01/03/15,01/03/17
+Alabama,7,"Sewell, Terri", D,01/03/15,01/03/17
+Alaska,1,"Young, Don", R,01/03/15,01/03/17
+Arizona,1,"Kirkpatrick, Ann", D,01/03/15,01/03/17
+Arizona,2,"McSally, Martha", R,01/03/15,01/03/17
+Arizona,3,"Grijalva, Raúl", D,01/03/15,01/03/17
+Arizona,4,"Gosar, Paul", R,01/03/15,01/03/17
+Arizona,5,"Salmon, Matt", R,01/03/15,01/03/17
+Arizona,6,"Schweikert, David", R,01/03/15,01/03/17
+Arizona,7,"Gallego, Ruben", D,01/03/15,01/03/17
+Arizona,8,"Franks, Trent", R,01/03/15,01/03/17
+Arizona,9,"Sinema, Kyrsten", D,01/03/15,01/03/17
+Arkansas,1,"Crawford, Rick", R,01/03/15,01/03/17
+Arkansas,2,"Hill, French", R,01/03/15,01/03/17
+Arkansas,3,"Womack, Steve", R,01/03/15,01/03/17
+Arkansas,4,"Westerman, Bruce", R,01/03/15,01/03/17
+California,1,"LaMalfa, Doug", R,01/03/15,01/03/17
+California,2,"Huffman, Jared", D,01/03/15,01/03/17
+California,3,"Garamendi, John", D,01/03/15,01/03/17
+California,4,"McClintock, Tom", R,01/03/15,01/03/17
+California,5,"Thompson, Mike", D,01/03/15,01/03/17
+California,6,"Matsui, Doris", D,01/03/15,01/03/17
+California,7,"Bera, Ami", D,01/03/15,01/03/17
+California,8,"Cook, Paul", R,01/03/15,01/03/17
+California,9,"McNerney, Jerry", D,01/03/15,01/03/17
+California,10,"Denham, Jeff", R,01/03/15,01/03/17
+California,11,"DeSaulnier, Mark", D,01/03/15,01/03/17
+California,12,"Pelosi, Nancy", D,01/03/15,01/03/17
+California,13,"Lee, Barbara", D,01/03/15,01/03/17
+California,14,"Speier, Jackie", D,01/03/15,01/03/17
+California,15,"Swalwell, Eric", D,01/03/15,01/03/17
+California,16,"Costa, Jim", D,01/03/15,01/03/17
+California,17,"Honda, Mike", D,01/03/15,01/03/17
+California,18,"Eshoo, Anna", D,01/03/15,01/03/17
+California,19,"Lofgren, Zoe", D,01/03/15,01/03/17
+California,20,"Farr, Sam", D,01/03/15,01/03/17
+California,21,"Valadao, David", R,01/03/15,01/03/17
+California,22,"Nunes, Devin", R,01/03/15,01/03/17
+California,23,"McCarthy, Kevin", R,01/03/15,01/03/17
+California,24,"Capps, Lois", D,01/03/15,01/03/17
+California,25,"Knight, Steve", R,01/03/15,01/03/17
+California,26,"Brownley, Julia", D,01/03/15,01/03/17
+California,27,"Chu, Judy", D,01/03/15,01/03/17
+California,28,"Schiff, Adam", D,01/03/15,01/03/17
+California,29,"Cardenas, Tony", D,01/03/15,01/03/17
+California,30,"Sherman, Brad", D,01/03/15,01/03/17
+California,31,"Aguilar, Pete", D,01/03/15,01/03/17
+California,32,"Napolitano, Grace", D,01/03/15,01/03/17
+California,33,"Lieu, Ted", D,01/03/15,01/03/17
+California,34,"Becerra, Xavier", D,01/03/15,01/03/17
+California,35,"Torres, Norma", D,01/03/15,01/03/17
+California,36,"Ruiz, Raul", D,01/03/15,01/03/17
+California,37,"Bass, Karen", D,01/03/15,01/03/17
+California,38,"Sánchez, Linda", D,01/03/15,01/03/17
+California,39,"Royce, Ed", R,01/03/15,01/03/17
+California,40,"Roybal-Allard, Lucille", D,01/03/15,01/03/17
+California,41,"Takano, Mark", D,01/03/15,01/03/17
+California,42,"Calvert, Ken", R,01/03/15,01/03/17
+California,43,"Waters, Maxine", D,01/03/15,01/03/17
+California,44,"Hahn, Janice", D,01/03/15,12/04/16
+California,45,"Walters, Mimi", R,01/03/15,01/03/17
+California,46,"Sanchez, Loretta", D,01/03/15,01/03/17
+California,47,"Lowenthal, Alan", D,01/03/15,01/03/17
+California,48,"Rohrabacher, Dana", R,01/03/15,01/03/17
+California,49,"Issa, Darrell", R,01/03/15,01/03/17
+California,50,"Hunter, Duncan D.", R,01/03/15,01/03/17
+California,51,"Vargas, Juan", D,01/03/15,01/03/17
+California,52,"Peters, Scott", D,01/03/15,01/03/17
+California,53,"Davis, Susan", D,01/03/15,01/03/17
+Colorado,1,"DeGette, Diana", D,01/03/15,01/03/17
+Colorado,2,"Polis, Jared", D,01/03/15,01/03/17
+Colorado,3,"Tipton, Scott", R,01/03/15,01/03/17
+Colorado,4,"Buck, Ken", R,01/03/15,01/03/17
+Colorado,5,"Lamborn, Doug", R,01/03/15,01/03/17
+Colorado,6,"Coffman, Mike", R,01/03/15,01/03/17
+Colorado,7,"Perlmutter, Ed", D,01/03/15,01/03/17
+Connecticut,1,"Larson, John", D,01/03/15,01/03/17
+Connecticut,2,"Courtney, Joe", D,01/03/15,01/03/17
+Connecticut,3,"DeLauro, Rosa", D,01/03/15,01/03/17
+Connecticut,4,"Himes, Jim", D,01/03/15,01/03/17
+Connecticut,5,"Esty, Elizabeth", D,01/03/15,01/03/17
+Delaware,1,"Carney, John", D,01/03/15,01/03/17
+Florida,1,"Miller, Jeff", R,01/03/15,01/03/17
+Florida,2,"Graham, Gwen", D,01/03/15,01/03/17
+Florida,3,"Yoho, Ted", R,01/03/15,01/03/17
+Florida,4,"Crenshaw, Ander", R,01/03/15,01/03/17
+Florida,5,"Brown, Corrine", D,01/03/15,01/03/17
+Florida,6,"DeSantis, Ron", R,01/03/15,01/03/17
+Florida,7,"Mica, John", R,01/03/15,01/03/17
+Florida,8,"Posey, Bill", R,01/03/15,01/03/17
+Florida,9,"Grayson, Alan", D,01/03/15,01/03/17
+Florida,10,"Webster, Daniel", R,01/03/15,01/03/17
+Florida,11,"Nugent, Rich", R,01/03/15,01/03/17
+Florida,12,"Bilirakis, Gus", R,01/03/15,01/03/17
+Florida,13,"Jolly, David", R,01/03/15,01/03/17
+Florida,14,"Castor, Kathy", D,01/03/15,01/03/17
+Florida,15,"Ross, Dennis A.", R,01/03/15,01/03/17
+Florida,16,"Buchanan, Vern", R,01/03/15,01/03/17
+Florida,17,"Rooney, Tom", R,01/03/15,01/03/17
+Florida,18,"Murphy, Patrick", D,01/03/15,01/03/17
+Florida,19,"Clawson, Curt", R,01/03/15,01/03/17
+Florida,20,"Hastings, Alcee", D,01/03/15,01/03/17
+Florida,21,"Deutch, Ted", D,01/03/15,01/03/17
+Florida,22,"Frankel, Lois", D,01/03/15,01/03/17
+Florida,23,"Wasserman, Debbie", D,01/03/15,01/03/17
+Florida,24,"Wilson, Frederica", D,01/03/15,01/03/17
+Florida,25,"Díaz-Balart, Mario", R,01/03/15,01/03/17
+Florida,26,"Curbelo, Carlos", R,01/03/15,01/03/17
+Florida,27,"Ros-Lehtinen, Ileana", R,01/03/15,01/03/17
+Georgia,1,"Carter, Buddy", R,01/03/15,01/03/17
+Georgia,2,"Bishop, Sanford", D,01/03/15,01/03/17
+Georgia,3,"Westmoreland, Lynn", R,01/03/15,01/03/17
+Georgia,4,"Johnson, Hank", D,01/03/15,01/03/17
+Georgia,5,"Lewis, John", D,01/03/15,01/03/17
+Georgia,6,"Price, Tom", R,01/03/15,01/03/17
+Georgia,7,"Woodall, Rob", R,01/03/15,01/03/17
+Georgia,8,"Scott, Austin", R,01/03/15,01/03/17
+Georgia,9,"Collins, Doug", R,01/03/15,01/03/17
+Georgia,10,"Hice, Jody", R,01/03/15,01/03/17
+Georgia,11,"Loudermilk, Barry", R,01/03/15,01/03/17
+Georgia,12,"Allen, Rick", R,01/03/15,01/03/17
+Georgia,13,"Scott, David", D,01/03/15,01/03/17
+Georgia,14,"Graves, Tom", R,01/03/15,01/03/17
+Hawaii,1,"Takai, Mark", D,01/03/15,07/20/16
+Hawaii,1,"Hanabusa, Colleen", D,11/08/16,01/03/17
+Hawaii,2,"Gabbard, Tulsi", D,01/03/15,01/03/17
+Idaho,1,"Labrador, Raul", R,01/03/15,01/03/17
+Idaho,2,"Simpson, Mike", R,01/03/15,01/03/17
+Illinois,1,"Rush, Bobby", D,01/03/15,01/03/17
+Illinois,2,"Kelly, Robin", D,01/03/15,01/03/17
+Illinois,3,"Lipinski, Dan", D,01/03/15,01/03/17
+Illinois,4,"Gutiérrez, Luis", D,01/03/15,01/03/17
+Illinois,5,"Quigley, Mike", D,01/03/15,01/03/17
+Illinois,6,"Roskam, Peter", R,01/03/15,01/03/17
+Illinois,7,"Davis, Danny", D,01/03/15,01/03/17
+Illinois,8,"Duckworth, Tammy", D,01/03/15,01/03/17
+Illinois,9,"Schakowsky, Jan", D,01/03/15,01/03/17
+Illinois,10,"Dold, Bob", R,01/03/15,01/03/17
+Illinois,11,"Foster, Bill", D,01/03/15,01/03/17
+Illinois,12,"Bost, Mike", R,01/03/15,01/03/17
+Illinois,13,"Davis, Rodney L.", R,01/03/15,01/03/17
+Illinois,14,"Hultgren, Randy", R,01/03/15,01/03/17
+Illinois,15,"Shimkus, John", R,01/03/15,01/03/17
+Illinois,16,"Kinzinger, Adam", R,01/03/15,01/03/17
+Illinois,17,"Bustos, Cheri", D,01/03/15,01/03/17
+Illinois,18,"Schock, Aaron", R,01/03/15,03/31/15
+Illinois,18,"LaHood, Darin", R,09/10/15,01/03/17
+Indiana,1,"Visclosky, Pete", D,01/03/15,01/03/17
+Indiana,2,"Walorski, Jackie", R,01/03/15,01/03/17
+Indiana,3,"Stutzman, Marlin", R,01/03/15,01/03/17
+Indiana,4,"Rokita, Todd", R,01/03/15,01/03/17
+Indiana,5,"Brooks, Susan", R,01/03/15,01/03/17
+Indiana,6,"Messer, Luke", R,01/03/15,01/03/17
+Indiana,7,"Carson, André", D,01/03/15,01/03/17
+Indiana,8,"Bucshon, Larry", R,01/03/15,01/03/17
+Indiana,9,"Young, Todd", R,01/03/15,01/03/17
+Iowa,1,"Blum, Rod", R,01/03/15,01/03/17
+Iowa,2,"Loebsack, David", D,01/03/15,01/03/17
+Iowa,3,"Young, David", R,01/03/15,01/03/17
+Iowa,4,"King, Steve", R,01/03/15,01/03/17
+Kansas,1,"Huelskamp, Tim", R,01/03/15,01/03/17
+Kansas,2,"Jenkins, Lynn", R,01/03/15,01/03/17
+Kansas,3,"Yoder, Kevin", R,01/03/15,01/03/17
+Kansas,4,"Pompeo, Mike", R,01/03/15,01/03/17
+Kentucky,1,"Whitfield, Ed", R,01/03/15,09/06/16
+Kentucky,1,"Comer, James", R,11/08/16,01/03/17
+Kentucky,2,"Guthrie, Brett", R,01/03/15,01/03/17
+Kentucky,3,"Yarmuth, John", D,01/03/15,01/03/17
+Kentucky,4,"Massie, Thomas", R,01/03/15,01/03/17
+Kentucky,5,"Rogers, Hal", R,01/03/15,01/03/17
+Kentucky,6,"Barr, Andy", R,01/03/15,01/03/17
+Louisiana,1,"Scalise, Steve", R,01/03/15,01/03/17
+Louisiana,2,"Richmond, Cedric", D,01/03/15,01/03/17
+Louisiana,3,"Boustany, Charles", R,01/03/15,01/03/17
+Louisiana,4,"Fleming, John", R,01/03/15,01/03/17
+Louisiana,5,"Abraham, Ralph", R,01/03/15,01/03/17
+Louisiana,6,"Graves, Garret", R,01/03/15,01/03/17
+Maine,1,"Pingree, Chellie", D,01/03/15,01/03/17
+Maine,2,"Poliquin, Bruce", R,01/03/15,01/03/17
+Maryland,1,"Harris, Andy", R,01/03/15,01/03/17
+Maryland,2,"Ruppersberger, Dutch", D,01/03/15,01/03/17
+Maryland,3,"Sarbanes, John", D,01/03/15,01/03/17
+Maryland,4,"Edwards, Donna", D,01/03/15,01/03/17
+Maryland,5,"Hoyer, Steny", D,01/03/15,01/03/17
+Maryland,6,"Delaney, John", D,01/03/15,01/03/17
+Maryland,7,"Cummings, Elijah", D,01/03/15,01/03/17
+Maryland,8,"Van, Chris", D,01/03/15,01/03/17
+Massachusetts,1,"Neal, Richard", D,01/03/15,01/03/17
+Massachusetts,2,"McGovern, Jim", D,01/03/15,01/03/17
+Massachusetts,3,"Tsongas, Niki", D,01/03/15,01/03/17
+Massachusetts,4,"Kennedy, Joseph P., III", D,01/03/15,01/03/17
+Massachusetts,5,"Clark, Katherine", D,01/03/15,01/03/17
+Massachusetts,6,"Moulton, Seth", D,01/03/15,01/03/17
+Massachusetts,7,"Capuano, Mike", D,01/03/15,01/03/17
+Massachusetts,8,"Lynch, Stephen", D,01/03/15,01/03/17
+Massachusetts,9,"Keating, William", D,01/03/15,01/03/17
+Michigan,1,"Benishek, Dan", R,01/03/15,01/03/17
+Michigan,2,"Huizenga, Bill", R,01/03/15,01/03/17
+Michigan,3,"Amash, Justin", R,01/03/15,01/03/17
+Michigan,4,"Moolenaar, John", R,01/03/15,01/03/17
+Michigan,5,"Kildee, Dan", D,01/03/15,01/03/17
+Michigan,6,"Upton, Fred", R,01/03/15,01/03/17
+Michigan,7,"Walberg, Tim", R,01/03/15,01/03/17
+Michigan,8,"Bishop, Mike", R,01/03/15,01/03/17
+Michigan,9,"Levin, Sander", D,01/03/15,01/03/17
+Michigan,10,"Miller, Candice", R,01/03/15,12/31/16
+Michigan,11,"Trott, Dave", R,01/03/15,01/03/17
+Michigan,12,"Dingell, Debbie", D,01/03/15,01/03/17
+Michigan,13,"Conyers, John", D,01/03/15,01/03/17
+Michigan,14,"Lawrence, Brenda", D,01/03/15,01/03/17
+Minnesota,1,"Walz, Tim", D,01/03/15,01/03/17
+Minnesota,2,"Kline, John", R,01/03/15,01/03/17
+Minnesota,3,"Paulsen, Erik", R,01/03/15,01/03/17
+Minnesota,4,"McCollum, Betty", D,01/03/15,01/03/17
+Minnesota,5,"Ellison, Keith", D,01/03/15,01/03/17
+Minnesota,6,"Emmer, Tom", R,01/03/15,01/03/17
+Minnesota,7,"Peterson, Collin", D,01/03/15,01/03/17
+Minnesota,8,"Nolan, Rick", D,01/03/15,01/03/17
+Mississippi,1,"Nunnelee, Alan", R,01/03/15,02/06/15
+Mississippi,1,"Kelly, Trent", R,06/02/15,01/03/17
+Mississippi,2,"Thompson, Bennie", D,01/03/15,01/03/17
+Mississippi,3,"Harper, Gregg", R,01/03/15,01/03/17
+Mississippi,4,"Palazzo, Steven", R,01/03/15,01/03/17
+Missouri,1,"Clay, Lacy", D,01/03/15,01/03/17
+Missouri,2,"Wagner, Ann", R,01/03/15,01/03/17
+Missouri,3,"Luetkemeyer, Blaine", R,01/03/15,01/03/17
+Missouri,4,"Hartzler, Vicky", R,01/03/15,01/03/17
+Missouri,5,"Cleaver, Emanuel", D,01/03/15,01/03/17
+Missouri,6,"Graves, Sam", R,01/03/15,01/03/17
+Missouri,7,"Long, Billy", R,01/03/15,01/03/17
+Missouri,8,"Smith, Jason t.", R,01/03/15,01/03/17
+Montana,1,"Zinke, Ryan", R,01/03/15,01/03/17
+Nebraska,1,"Fortenberry, Jeff", R,01/03/15,01/03/17
+Nebraska,2,"Ashford, Brad", D,01/03/15,01/03/17
+Nebraska,3,"Smith, Adrian", R,01/03/15,01/03/17
+Nevada,1,"Titus, Dina", D,01/03/15,01/03/17
+Nevada,2,"Amodei, Mark", R,01/03/15,01/03/17
+Nevada,3,"Heck, Joe", R,01/03/15,01/03/17
+Nevada,4,"Hardy, Cresent", R,01/03/15,01/03/17
+New Hampshire,1,"Guinta, Frank", R,01/03/15,01/03/17
+New Hampshire,2,"McLane, Ann", D,01/03/15,01/03/17
+New Jersey,1,"Norcross, Donald", D,01/03/15,01/03/17
+New Jersey,2,"LoBiondo, Frank", R,01/03/15,01/03/17
+New Jersey,3,"MacArthur, Tom", R,01/03/15,01/03/17
+New Jersey,4,"Smith, Chris", R,01/03/15,01/03/17
+New Jersey,5,"Garrett, Scott", R,01/03/15,01/03/17
+New Jersey,6,"Pallone, Frank", D,01/03/15,01/03/17
+New Jersey,7,"Lance, Leonard", R,01/03/15,01/03/17
+New Jersey,8,"Sires, Albio", D,01/03/15,01/03/17
+New Jersey,9,"Pascrell, Bill", D,01/03/15,01/03/17
+New Jersey,10,"Payne, Donald", D,01/03/15,01/03/17
+New Jersey,11,"Frelinghuysen, Rodney", R,01/03/15,01/03/17
+New Jersey,12,"Watson, Bonnie", D,01/03/15,01/03/17
+New Mexico,1,"Lujan, Michelle", D,01/03/15,01/03/17
+New Mexico,2,"Pearce, Steve", R,01/03/15,01/03/17
+New Mexico,3,"Ray, Ben", D,01/03/15,01/03/17
+New York,1,"Zeldin, Lee", R,01/03/15,01/03/17
+New York,2,"King, Peter T.", R,01/03/15,01/03/17
+New York,3,"Israel, Steve", D,01/03/15,01/03/17
+New York,4,"Rice, Kathleen", D,01/03/15,01/03/17
+New York,5,"Meeks, Gregory", D,01/03/15,01/03/17
+New York,6,"Meng, Grace", D,01/03/15,01/03/17
+New York,7,"Velázquez, Nydia", D,01/03/15,01/03/17
+New York,8,"Jeffries, Hakeem", D,01/03/15,01/03/17
+New York,9,"Clarke, Yvette", D,01/03/15,01/03/17
+New York,10,"Nadler, Jerrold", D,01/03/15,01/03/17
+New York,11,"Donovan, Dan", R,05/05/15,01/03/17
+New York,12,"Maloney, Carolyn", D,01/03/15,01/03/17
+New York,13,"Rangel, Charles", D,01/03/15,01/03/17
+New York,14,"Crowley, Joseph", D,01/03/15,01/03/17
+New York,15,"Serrano, Jose E.", D,01/03/15,01/03/17
+New York,16,"Engel, Eliot", D,01/03/15,01/03/17
+New York,17,"Lowey, Nita", D,01/03/15,01/03/17
+New York,18,"Patrick, Sean", D,01/03/15,01/03/17
+New York,19,"Gibson, Chris", R,01/03/15,01/03/17
+New York,20,"Tonko, Paul", D,01/03/15,01/03/17
+New York,21,"Stefanik, Elise", R,01/03/15,01/03/17
+New York,22,"L., Richard", R,01/03/15,01/03/17
+New York,23,"Reed, Tom", R,01/03/15,01/03/17
+New York,24,"Katko, John", R,01/03/15,01/03/17
+New York,25,"Slaughter, Louise", D,01/03/15,01/03/17
+New York,26,"Higgins, Brian", D,01/03/15,01/03/17
+New York,27,"Collins, Chris", R,01/03/15,01/03/17
+North Carolina,1,"Butterfield, G.K.", D,01/03/15,01/03/17
+North Carolina,2,"Ellmers, Renee", R,01/03/15,01/03/17
+North Carolina,3,"Jones, Walter B., Jr.", R,01/03/15,01/03/17
+North Carolina,4,"Price, David", D,01/03/15,01/03/17
+North Carolina,5,"Foxx, Virginia", R,01/03/15,01/03/17
+North Carolina,6,"Walker, Mark", R,01/03/15,01/03/17
+North Carolina,7,"Rouzer, David", R,01/03/15,01/03/17
+North Carolina,8,"Hudson, Richard", R,01/03/15,01/03/17
+North Carolina,9,"Pittenger, Robert", R,01/03/15,01/03/17
+North Carolina,10,"McHenry, Patrick", R,01/03/15,01/03/17
+North Carolina,11,"Meadows, Mark", R,01/03/15,01/03/17
+North Carolina,12,"Adams, Alma", D,01/03/15,01/03/17
+North Carolina,13,"Holding, George", R,01/03/15,01/03/17
+North Dakota,1,"Cramer, Kevin", R,01/03/15,01/03/17
+Ohio,1,"Chabot, Steve", R,01/03/15,01/03/17
+Ohio,2,"Wenstrup, Brad", R,01/03/15,01/03/17
+Ohio,3,"Beatty, Joyce", D,01/03/15,01/03/17
+Ohio,4,"Jordan, Jim", R,01/03/15,01/03/17
+Ohio,5,"Latta, Bob", R,01/03/15,01/03/17
+Ohio,6,"Johnson, Bill", R,01/03/15,01/03/17
+Ohio,7,"Gibbs, Bob", R,01/03/15,01/03/17
+Ohio,8,"Boehner, John", R,01/03/15,10/31/15
+Ohio,8,"Davidson, Warren", R,06/07/16,01/03/17
+Ohio,9,"Kaptur, Marcy", D,01/03/15,01/03/17
+Ohio,10,"Turner, Mike", R,01/03/15,01/03/17
+Ohio,11,"Fudge, Marcia", D,01/03/15,01/03/17
+Ohio,12,"Tiberi, Pat", R,01/03/15,01/03/17
+Ohio,13,"Ryan, Tim", D,01/03/15,01/03/17
+Ohio,14,"Joyce, David", R,01/03/15,01/03/17
+Ohio,15,"Stivers, Steve", R,01/03/15,01/03/17
+Ohio,16,"Renacci, Jim", R,01/03/15,01/03/17
+Oklahoma,1,"Bridenstine, Jim", R,01/03/15,01/03/17
+Oklahoma,2,"Mullin, Markwayne", R,01/03/15,01/03/17
+Oklahoma,3,"Lucas, Frank", R,01/03/15,01/03/17
+Oklahoma,4,"Cole, Tom", R,01/03/15,01/03/17
+Oklahoma,5,"Russell, Steve", R,01/03/15,01/03/17
+Oregon,1,"Bonamici, Suzanne", D,01/03/15,01/03/17
+Oregon,2,"Walden, Greg", R,01/03/15,01/03/17
+Oregon,3,"Blumenauer, Earl", D,01/03/15,01/03/17
+Oregon,4,"DeFazio, Peter", D,01/03/15,01/03/17
+Oregon,5,"Schrader, Kurt", D,01/03/15,01/03/17
+Pennsylvania,1,"Brady, Bob", D,01/03/15,01/03/17
+Pennsylvania,2,"Fattah, Chaka", D,01/03/15,06/23/16
+Pennsylvania,2,"Evans, Dwight", D,11/08/16,01/03/17
+Pennsylvania,3,"Kelly, Mike", R,01/03/15,01/03/17
+Pennsylvania,4,"Perry, Scott", R,01/03/15,01/03/17
+Pennsylvania,5,"Thompson, Glenn", R,01/03/15,01/03/17
+Pennsylvania,6,"Costello, Ryan", R,01/03/15,01/03/17
+Pennsylvania,7,"Meehan, Pat", R,01/03/15,01/03/17
+Pennsylvania,8,"Fitzpatrick, Mike", R,01/03/15,01/03/17
+Pennsylvania,9,"Shuster, Bill", R,01/03/15,01/03/17
+Pennsylvania,10,"Marino, Tom", R,01/03/15,01/03/17
+Pennsylvania,11,"Barletta, Lou", R,01/03/15,01/03/17
+Pennsylvania,12,"Rothfus, Keith", R,01/03/15,01/03/17
+Pennsylvania,13,"Boyle, Brendan", D,01/03/15,01/03/17
+Pennsylvania,14,"Doyle, Michael f.", D,01/03/15,01/03/17
+Pennsylvania,15,"Dent, Charlie", R,01/03/15,01/03/17
+Pennsylvania,16,"Pitts, Joe", R,01/03/15,01/03/17
+Pennsylvania,17,"Cartwright, Matt", D,01/03/15,01/03/17
+Pennsylvania,18,"Murphy, Tim", R,01/03/15,01/03/17
+Rhode Island,1,"Cicilline, David", D,01/03/15,01/03/17
+Rhode Island,2,"Langevin, James", D,01/03/15,01/03/17
+South Carolina,1,"Sanford, Mark", R,01/03/15,01/03/17
+South Carolina,2,"Wilson, Joe", R,01/03/15,01/03/17
+South Carolina,3,"Duncan, Jeff", R,01/03/15,01/03/17
+South Carolina,4,"Gowdy, Trey", R,01/03/15,01/03/17
+South Carolina,5,"Mulvaney, Mick", R,01/03/15,01/03/17
+South Carolina,6,"Clyburn, Jim", D,01/03/15,01/03/17
+South Carolina,7,"Rice, Tom", R,01/03/15,01/03/17
+South Dakota,1,"Noem, Kristi", R,01/03/15,01/03/17
+Tennessee,1,"Roe, Phil", R,01/03/15,01/03/17
+Tennessee,2,"Duncan, Jimmy", R,01/03/15,01/03/17
+Tennessee,3,"Fleischmann, Chuck", R,01/03/15,01/03/17
+Tennessee,4,"DesJarlais, Scott", R,01/03/15,01/03/17
+Tennessee,5,"Cooper, Jim", D,01/03/15,01/03/17
+Tennessee,6,"Black, Diane", R,01/03/15,01/03/17
+Tennessee,7,"Blackburn, Marsha", R,01/03/15,01/03/17
+Tennessee,8,"Fincher, Stephen", R,01/03/15,01/03/17
+Tennessee,9,"Cohen, Steve", D,01/03/15,01/03/17
+Texas,1,"Gohmert, Louie", R,01/03/15,01/03/17
+Texas,2,"Poe, Ted", R,01/03/15,01/03/17
+Texas,3,"Johnson, Sam", R,01/03/15,01/03/17
+Texas,4,"Ratcliffe, John", R,01/03/15,01/03/17
+Texas,5,"Hensarling, Jeb", R,01/03/15,01/03/17
+Texas,6,"Barton, Joe", R,01/03/15,01/03/17
+Texas,7,"Culberson, John", R,01/03/15,01/03/17
+Texas,8,"Brady, Kevin", R,01/03/15,01/03/17
+Texas,9,"Green, Al", D,01/03/15,01/03/17
+Texas,10,"McCaul, Michael", R,01/03/15,01/03/17
+Texas,11,"Conaway, Mike", R,01/03/15,01/03/17
+Texas,12,"Granger, Kay", R,01/03/15,01/03/17
+Texas,13,"Thornberry, Mac", R,01/03/15,01/03/17
+Texas,14,"Weber, Randy", R,01/03/15,01/03/17
+Texas,15,"Hinojosa, Ruben", D,01/03/15,01/03/17
+Texas,16,"O'Rourke, Beto", D,01/03/15,01/03/17
+Texas,17,"Flores, Bill", R,01/03/15,01/03/17
+Texas,18,"Jackson, Sheila", D,01/03/15,01/03/17
+Texas,19,"Neugebauer, Randy", R,01/03/15,01/03/17
+Texas,20,"Castro, Joaquin", D,01/03/15,01/03/17
+Texas,21,"Smith, Lamar", R,01/03/15,01/03/17
+Texas,22,"Olson, Pete", R,01/03/15,01/03/17
+Texas,23,"Hurd, Will", R,01/03/15,01/03/17
+Texas,24,"Marchant, Kenny", R,01/03/15,01/03/17
+Texas,25,"Williams, Roger", R,01/03/15,01/03/17
+Texas,26,"Burgess, Michael", R,01/03/15,01/03/17
+Texas,27,"Farenthold, Blake", R,01/03/15,01/03/17
+Texas,28,"Cuellar, Henry", D,01/03/15,01/03/17
+Texas,29,"Green, Gene", D,01/03/15,01/03/17
+Texas,30,"Bernice, Eddie", D,01/03/15,01/03/17
+Texas,31,"Carter, John", R,01/03/15,01/03/17
+Texas,32,"Sessions, Pete", R,01/03/15,01/03/17
+Texas,33,"Veasey, Marc", D,01/03/15,01/03/17
+Texas,34,"Vela, Filemon", D,01/03/15,01/03/17
+Texas,35,"Doggett, Lloyd", D,01/03/15,01/03/17
+Texas,36,"Babin, Brian", R,01/03/15,01/03/17
+Utah,1,"Bishop, Rob", R,01/03/15,01/03/17
+Utah,2,"Stewart, Chris", R,01/03/15,01/03/17
+Utah,3,"Chaffetz, Jason", R,01/03/15,01/03/17
+Utah,4,"Love, Mia", R,01/03/15,01/03/17
+Vermont,1,"Welch, Peter", D,01/03/15,01/03/17
+Virginia,1,"Wittman, Rob", R,01/03/15,01/03/17
+Virginia,2,"Rigell, Scott", R,01/03/15,01/03/17
+Virginia,3,"Scott, Bobby", D,01/03/15,01/03/17
+Virginia,4,"Forbes, Randy", R,01/03/15,01/03/17
+Virginia,5,"Hurt, Robert", R,01/03/15,01/03/17
+Virginia,6,"Goodlatte, Bob", R,01/03/15,01/03/17
+Virginia,7,"Brat, Dave", R,01/03/15,01/03/17
+Virginia,8,"Beyer, Don", D,01/03/15,01/03/17
+Virginia,9,"Griffith, Morgan", R,01/03/15,01/03/17
+Virginia,10,"Comstock, Barbara", R,01/03/15,01/03/17
+Virginia,11,"Connolly, Gerry", D,01/03/15,01/03/17
+Washington,1,"DelBene, Suzan", D,01/03/15,01/03/17
+Washington,2,"Larsen, Rick", D,01/03/15,01/03/17
+Washington,3,"Herrera, Jaime", R,01/03/15,01/03/17
+Washington,4,"Newhouse, Dan", R,01/03/15,01/03/17
+Washington,5,"McMorris, Cathy", R,01/03/15,01/03/17
+Washington,6,"Kilmer, Derek", D,01/03/15,01/03/17
+Washington,7,"McDermott, Jim", D,01/03/15,01/03/17
+Washington,8,"Reichert, Dave", R,01/03/15,01/03/17
+Washington,9,"Smith, Adam", D,01/03/15,01/03/17
+Washington,10,"Heck, Dennis", D,01/03/15,01/03/17
+West Virginia,1,"McKinley, David", R,01/03/15,01/03/17
+West Virginia,2,"Mooney, Alex", R,01/03/15,01/03/17
+West Virginia,3,"Jenkins, Evan", R,01/03/15,01/03/17
+Wisconsin,1,"Ryan, Paul", R,01/03/15,01/03/17
+Wisconsin,2,"Pocan, Mark", D,01/03/15,01/03/17
+Wisconsin,3,"Kind, Ron", D,01/03/15,01/03/17
+Wisconsin,4,"Moore, Gwen", D,01/03/15,01/03/17
+Wisconsin,5,"Sensenbrenner, Jim", R,01/03/15,01/03/17
+Wisconsin,6,"Grothman, Glenn", R,01/03/15,01/03/17
+Wisconsin,7,"Duffy, Sean", R,01/03/15,01/03/17
+Wisconsin,8,"Ribble, Reid", R,01/03/15,01/03/17
+Wyoming,1,"Lummis, Cynthia", R,01/03/15,01/03/17
+American Samoa,1,"Coleman, Amata", R,01/03/15,01/03/17
+District of Columbia,1,"Holmes, Eleanor", D,01/03/15,01/03/17
+Guam,1,"Bordallo, Madeleine", D,01/03/15,01/03/17
+Northern Mariana Islands,1,"Sablan, Gregorio", I,01/03/15,01/03/17
+Puerto Rico,1,"Pierluisi, Pedro", D,01/03/15,01/03/17
+U.S. Virgin Islands,1,"Plaskett, Stacey", D,01/03/15,01/03/17
